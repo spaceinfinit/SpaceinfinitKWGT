@@ -1,4 +1,6 @@
-[		{
+{
+
+	"wallpapers": [		{
 
 			"author": "Space Infinit",
 
@@ -272,4 +274,8 @@
 			"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20023.jpg"
 
 		}
+
+
 	]
+
+}
