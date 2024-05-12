@@ -7,43 +7,23 @@
 		"copyright": "free",
 		"collections": "landscapes"
 	},
+
+
 	{
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20001.jpg",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotB",
-		"author": "Someone",
+		"name": "Sapace 002",
+		"author": "Space Infint",
 		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20002.jpg",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": true
-	},
-	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
-	},
-	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20004.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20004.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20002.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,city",
 		"featured": true
 	},
 	{
-		"name": "Wallsplash 2",
+		"name": "Space 003",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,food"
