@@ -271,17 +271,5 @@
 
 			"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20023.jpg"
 
-		},
-
-  {
-		"name": "Space 001",
-		"author": "Space Infinit",
-		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20001.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20001.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "free",
-		"collections": "landscapes"
-	}
-
-
+		}
 	]
