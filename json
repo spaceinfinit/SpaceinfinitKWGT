@@ -19,7 +19,7 @@
 		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20002.jpg",
 		"dimensions": "3200x2560",
 		"collections": "people,city",
-		"downloadable": false
+		"downloadable": true
 	},
 	{
 		"author": "Someone",
