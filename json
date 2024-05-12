@@ -10,7 +10,7 @@
 
 
 	{
-		"name": "Sapace 002",
+		"name": "Space 002",
 		"author": "Space Infint",
 		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20002.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20002.jpg",
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Space 003",
-		"author": "wallsplash",
+		"author": "Space Infinit",
 		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
 		"dimensions": "3200x2560",
@@ -29,107 +29,167 @@
 		"collections": "featured,landscapes,people,food"
 	},
 	{
-		"name": "Wallsplash 3",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
+		"name": "Space 004",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20004.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20003.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,food,people"
 	},
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+		"name": "Space 005",
+		"author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20005.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20005.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people,city"
 	},
 	{
-		"name": "Wallsplash 5",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"name": "Space 006",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20006.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20006.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+ {
+		"name": "Space 007",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20007.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20007.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
+
+{
+		"name": "Space 008",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20008.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20008.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
+{
+		"name": "Space 009",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20009.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20009.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	},
-	{
-		"name": "Halloween 1",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=david-menidrey-MYRG0ptGh50-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
+{
+		"name": "Space 010",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20010.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20010.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "halloween"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "New Halloween",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
+ {
+		"name": "Space 011",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20011.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20011.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "halloween, new year"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "New Year",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
+
+ {
+		"name": "Space 012",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20012.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20012.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "new year, new"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Annie from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/annie.jpg",
+{
+		"name": "Space 013",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20013.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20013.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
+		"collections": "featured,landscapes"
 	},
-	{
-		"name": "Neom from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/wallpapers/neom.jpg",
+{
+		"name": "Space 0014",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20014.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20014.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 015",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20015.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20015.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 016",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20016.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20016.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 017",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20017.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20017.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 018",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20018.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20018.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 019",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20019.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20019.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 020",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20020.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20020.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+{
+		"name": "Space 021",
+   "author": "Space Infinit",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20021.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKWGT/main/Space%20021.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
 	}
+
 ]
